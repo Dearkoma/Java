@@ -1,0 +1,95 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ABS",
+            "request": "launch",
+            "mainClass": "langqiao.ABS",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "MYtest",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "externalTerminal",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousInner",
+            "request": "launch",
+            "mainClass": "Inner.AnonymousInner",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "poly01",
+            "request": "launch",
+            "mainClass": "poly.为什么要多态.poly01",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "poly01",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "externalTerminal",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "方式",
+            "request": "launch",
+            "mainClass": "学习.方式",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "方法",
+            "request": "launch",
+            "mainClass": "学习.方法",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "homework11",
+            "request": "launch",
+            "mainClass": "类的作业.homework11",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "This",
+            "request": "launch",
+            "mainClass": "This",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "迷宫",
+            "request": "launch",
+            "mainClass": "迷宫",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": "20 10",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "${fileDirname}",
+            "request": "launch",
+            "mainClass": "${fileDirname}",
+            "projectName": "Java_a7c07b7c"
+        },
+    ]
+}

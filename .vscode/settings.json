@@ -1,0 +1,5 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.import.gradle.annotationProcessing.enabled": true,
+    "editor.inlineSuggest.showToolbar": "always",
+}

@@ -1,0 +1,7 @@
+@startuml
+
+class studen{
+    String name
+    int age
+}
+@enduml
